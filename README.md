@@ -30,11 +30,14 @@ Exercise 2: VIRTUAL CLASSROOM MANAGER
 A terminal-based application for managing virtual classrooms, demonstrating multiple design patterns.
 
 Files:
+
 •	Main.java: Application entry point.
+
 •	models/*, services/*, exceptions/*, utils/*: Various classes implementing the functionality.
 
 
 Prerequisites:
+
 •	Java Development Kit (JDK) 8 or later.
 
 
