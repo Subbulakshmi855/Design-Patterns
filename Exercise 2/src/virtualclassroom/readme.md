@@ -60,7 +60,7 @@ list_assignments <class_name>
 
 printclassroomdetails <class_name>
 
-10. Exit Application:
+11. Exit Application:
 
 exit
 
