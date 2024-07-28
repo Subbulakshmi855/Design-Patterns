@@ -38,11 +38,11 @@ add_student  <student_id>  <class_name>
 
 5. Schedule Assignment:
 
-schedule_assignment   <class_name>  <assignment_details> 
+schedule_assignment   <class_name>  <assignment_details (assignment name)> 
 
 6. Submit Assignment:
 
-submit_assignment  <student_id>  <class_name>  <assignment_details>
+submit_assignment  <student_id>  <class_name>  <assignment_details (assignment name)>
 
 7. List Classrooms:
 
