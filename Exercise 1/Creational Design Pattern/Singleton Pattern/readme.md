@@ -6,6 +6,7 @@ This use case demonstrates the Singleton Pattern using a database connection exa
 Project Structure
 
 •	DatabaseConnection.java: Implements the Singleton Pattern for a database connection.
+
 •	Main.java: Demonstrates how to use the Singleton database connection.
 
 Prerequisites
