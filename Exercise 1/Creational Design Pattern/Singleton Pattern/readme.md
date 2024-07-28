@@ -1,6 +1,7 @@
 DATABASE CONNECTION 
 
 Overview
+
 This use case demonstrates the Singleton Pattern using a database connection example in Java. The Singleton Pattern is particularly useful when you need to control access to a resource that should only be initialized once. This example illustrates how to manage a database connection using the Singleton Pattern to ensure that only one connection instance is created.
 
 Project Structure
@@ -9,7 +10,7 @@ Project Structure
 
 •	Main.java: Demonstrates how to use the Singleton database connection.
 
-Prerequisites
+Prerequisites : 
 Java Development Kit (JDK) 8 or later installed on your system.
 
 Compilation
